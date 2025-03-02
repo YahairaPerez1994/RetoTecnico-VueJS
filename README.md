@@ -26,7 +26,7 @@ Además, al hacer clic en un post, se abre un modal (pop-up) que muestra los det
 ✅ Manejo de estados con Vue.js y props.
 ✅ Uso de fetch para consumir API externa.
 
-## 3.Instalación y Configuración
+## 3. Instalación y Configuración
 
 1️⃣ Clonar el repositorio
 
@@ -48,7 +48,7 @@ npm run dev
 
 El proyecto estará disponible en: http://localhost:5173/ 
 
-## 4.Uso del Proyecto
+## 4. Uso del Proyecto
 
 📌 Pantalla de Listado
 Muestra una lista de publicaciones con título y contenido.
@@ -56,6 +56,7 @@ Al hacer clic en un post, se abre un modal con la información detallada.
 Se obtiene la data desde la API de JSONPlaceholder.
 
 ![image](https://github.com/user-attachments/assets/16a87a8c-7569-40a2-9176-45ef8db923b7)
+
 
 📌 Pantalla de Detalle del Post
 Se abre en un modal.
@@ -65,12 +66,13 @@ Se almacena y actualiza el contador de visitas en localStorage.
 
 ![image](https://github.com/user-attachments/assets/b3237949-7337-4e58-b565-f8cac9f8a1ca)
 
-🚀 Tecnologías Utilizadas
-🟢 Vue.js 3 - Framework de JavaScript.
-🎨 CSS / Tailwind CSS - Estilos y diseño responsivo.
-📡 Fetch API - Para consumir la API de posts y comentarios.
-🖌 Figma - Diseño de la interfaz de usuario.
-💾 localStorage - Para almacenar el número de visitas.
-🐙 Git & GitHub - Control de versiones y colaboración.
+
+## 7. Tecnologías Utilizadas
+✅ Vue.js 3 - Framework de JavaScript.
+✅ CSS / Tailwind CSS - Estilos y diseño responsivo.
+✅ Fetch API - Para consumir la API de posts y comentarios.
+✅ Figma - Diseño de la interfaz de usuario.
+✅ localStorage - Para almacenar el número de visitas.
+✅ Git & GitHub - Control de versiones y colaboración.
 
 📌 ¡Gracias por visitar este proyecto! 🎉 Si tienes alguna duda o sugerencia, siéntete libre de abrir un issue en GitHub o contactarme. 🚀
