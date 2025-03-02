@@ -19,12 +19,12 @@ Objetivo: Implementar una interfaz dinámica, rápida y eficiente para visualiza
 
 ## 2. Características
 
-✅ Listado de posts con título y contenido.
-✅ Contador de visitas almacenado en localStorage.
-✅ Modal con detalles del post y comentarios.
-✅ Diseño responsivo y estilizado con CSS y Figma.
-✅ Manejo de estados con Vue.js y props.
-✅ Uso de fetch para consumir API externa.
+* ✅ Listado de posts con título y contenido.
+* ✅ Contador de visitas almacenado en localStorage.
+* ✅ Modal con detalles del post y comentarios.
+* ✅ Diseño responsivo y estilizado con CSS y Figma.
+* ✅ Manejo de estados con Vue.js y props.
+* ✅ Uso de fetch para consumir API externa.
 
 ## 3. Instalación y Configuración
 
