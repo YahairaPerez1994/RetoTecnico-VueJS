@@ -4,9 +4,11 @@
 * [1. Acerca del proyecto](#1-acerca-del-proyecto)
 * [2. Características](#2-características)
 * [3. Instalación y configuración](#3-instalación-y-configuración)
-* [4. Uso del Proyecto](#4-uso-del-proyecto)
+* * [4. Prototipos en Figma](#6-prototipos-en-figma)
+* [5. Uso del Proyecto](#4-uso-del-proyecto)
     * [Pantalla de Listado](#5-pantalla-de-listado)
     * [Pantalla de Detalle del Post](#6-pantalla-de-listado)
+* [6. Despliegue en Amazon Web Services](#5-despliegue-en-amazon-web-services)
 * [7. Tecnologías Utilizadas](#7-tecnologías-utilizadas)
 
 ## 1. Acerca del Proyecto
@@ -56,7 +58,11 @@ npm run dev
 
 El proyecto estará disponible en: `http://localhost:5173/` 
 
-## 4. Uso del Proyecto
+## 4. Prototipos en Figma
+
+El diseño de la interfaz se realizó en `Figma`, asegurando una experiencia de usuario intuitiva y un diseño responsivo.
+
+## 5. Uso del Proyecto
 
 ## 📌 Pantalla de Listado
 Muestra una lista de publicaciones con título y contenido.
@@ -75,6 +81,14 @@ Se almacena y actualiza el contador de visitas en localStorage.
 
 ![image](https://github.com/user-attachments/assets/b3237949-7337-4e58-b565-f8cac9f8a1ca)
 
+
+## 6. Despliegue en Amazon Web Services
+
+El proyecto está implementado en `AWS Amplify` , que está directamente conectado al repositorio en `GitHub` a través de la rama main. Se ha configurado un despliegue continuo `(CI/CD)` , lo que significa que cualquier actualización en la rama main se detecta automáticamente y se implementa en el entorno de producción sin intervención manual.
+
+Además, `AWS Amplify` gestiona el hosting de la aplicación con una infraestructura escalable y segura, optimizando el rendimiento de la interfaz en la web.
+
+🔗 URL del despliegue: https://main.d3ka7tkxhkn5lm.amplifyapp.com/
 
 
 ## 7. Tecnologías Utilizadas
