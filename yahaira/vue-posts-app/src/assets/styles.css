@@ -1,27 +1,32 @@
 /* src/assets/styles.css */
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #f4f4f4;
+    background-color: #5b9ba7;
     margin: 0;
     padding: 0;
   }
   
-  h1, h2, h3 {
-    color: #42b983;
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  h2, h3 {
+    color: #045c74;
     text-align: center;
   }
   
   button {
-    background-color: #42b983;
+    background-color: #045c74;
     color: white;
     border: none;
-    padding: 10px;
-    margin: 5px;
+    padding: 10px 20px;
     border-radius: 5px;
     cursor: pointer;
+    display: block;
+    margin: 0 auto; 
   }
   
   button:hover {
-    background-color: #369774;
+    background-color: #2f8494;
   }
   
