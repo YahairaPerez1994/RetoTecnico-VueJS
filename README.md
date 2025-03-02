@@ -5,8 +5,8 @@
 * [2. Características](#2-características)
 * [3. Instalación y configuración](#3-instalación-y-configuración)
 * [4. Uso del Proyecto](#4-uso-del-proyecto)
-*  [Pantalla de Listado](#5-pantalla-de-listado)
-*  [Pantalla de Detalle del Post](#6-pantalla-de-listado)
+*    [Pantalla de Listado](#5-pantalla-de-listado)
+*    [Pantalla de Detalle del Post](#6-pantalla-de-listado)
 * [7. Tecnologías Utilizadas](#7-tecnologías-utilizadas)
 
 ## 1. Acerca del Proyecto
@@ -18,29 +18,31 @@ Además, al hacer clic en un post, se abre un modal (pop-up) que muestra los det
 Objetivo: Implementar una interfaz dinámica, rápida y eficiente para visualizar y gestionar publicaciones con un contador de visitas.
 
 ## 2. Características
-✅ Listado de posts con título y contenido.                                                                                                                                             ✅ Contador de visitas almacenado en localStorage.
-* ✅ Modal con detalles del post y comentarios.
-* ✅ Diseño responsivo y estilizado con CSS y Figma.
-* ✅ Manejo de estados con Vue.js y props.
-* ✅ Uso de fetch para consumir API externa.
+
+* Listado de posts con título y co
+* Contador de visitas almacenado en localStorage.
+* Modal con detalles del post y comentarios.
+* Diseño responsivo y estilizado con CSS y Figma.
+* Manejo de estados con Vue.js y props.
+* Uso de fetch para consumir API externa.
 
 ## 3. Instalación y Configuración
 
 1️⃣ Clonar el repositorio
 
-git clone https://github.com/YahairaPerez1994/RetoTecnico-VueJS.git
+`git clone https://github.com/YahairaPerez1994/RetoTecnico-VueJS.git`
 
 2️⃣ Ingresar al directorio del proyecto
 
-cd yahaira/vue-posts-app
+`cd yahaira/vue-posts-app`
 
 3️⃣ Instalar dependencias
 
-npm install
+`npm install`
 
 4️⃣ Ejecutar el servidor de desarrollo
 
-npm run dev
+`npm run dev`
 
 5️⃣ Abrir en el navegador
 
@@ -66,11 +68,12 @@ Se almacena y actualiza el contador de visitas en localStorage.
 
 
 ## 7. Tecnologías Utilizadas
-✅ Vue.js 3 - Framework de JavaScript.
-✅ CSS / Tailwind CSS - Estilos y diseño responsivo.
-✅ Fetch API - Para consumir la API de posts y comentarios.
-✅ Figma - Diseño de la interfaz de usuario.
-✅ localStorage - Para almacenar el número de visitas.
-✅ Git & GitHub - Control de versiones y colaboración.
+
+* Vue.js 3 - Framework de JavaScript.
+* CSS / Tailwind CSS - Estilos y diseño responsivo.
+* Fetch API - Para consumir la API de posts y comentarios.
+* Figma - Diseño de la interfaz de usuario.
+* localStorage - Para almacenar el número de visitas.
+* Git & GitHub - Control de versiones y colaboración.
 
 📌 ¡Gracias por visitar este proyecto! 🎉 Si tienes alguna duda o sugerencia, siéntete libre de abrir un issue en GitHub o contactarme. 🚀
