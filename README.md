@@ -15,7 +15,7 @@ Este proyecto es una aplicación web desarrollada con Vue.js 3 que permite visua
 
 Además, al hacer clic en un post, se abre un modal (pop-up) que muestra los detalles de la publicación junto con sus comentarios.
 
-## Objetivo: Implementar una interfaz dinámica, rápida y eficiente para visualizar y gestionar publicaciones con un contador de visitas.
+Objetivo: Implementar una interfaz dinámica, rápida y eficiente para visualizar y gestionar publicaciones con un contador de visitas.
 
 ## 2. Características
 
