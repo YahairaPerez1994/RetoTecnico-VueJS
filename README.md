@@ -62,6 +62,9 @@ El proyecto estará disponible en: `http://localhost:5173/`
 
 El diseño de la interfaz se realizó en `Figma`, asegurando una experiencia de usuario intuitiva y un diseño responsivo.
 
+![Prototipo de alta fidelidad](https://github.com/user-attachments/assets/904ef4e3-c687-49fe-9f44-ad676dc0430a)
+
+
 ## 5. Uso del Proyecto
 
 ## 📌 Pantalla de Listado
@@ -70,7 +73,6 @@ Al hacer clic en un post, se abre un modal con la información detallada.
 Se obtiene la data desde la API de JSONPlaceholder.
 
 ![image](https://github.com/user-attachments/assets/16a87a8c-7569-40a2-9176-45ef8db923b7)
-
 
 
 ## 📌 Pantalla de Detalle del Post
