@@ -6,10 +6,11 @@
         <div class="post-card">
         <h3>{{ post.title }}</h3>
         <p>{{ post.body }}</p>
-        <button @click="verDetalle(post.id)">Ver más</button>
+        <button @click="abrirModal(post.id)">Ver más</button>
       </div>
       </li>
     </ul>
+    <PostDetail v-if="mostrarModal" :postId="postSeleccionado" @cerrar="mostrarModal = false" />
   </div>
 </template>
 
@@ -58,23 +59,27 @@ h3 {
 
 <script>
 import { ref, onMounted } from "vue";
-import { useRouter } from "vue-router";
+import PostDetail from "./PostDetail.vue";
 
 export default {
+  components: { PostDetail },
+
   setup() {
     const posts = ref([]);
-    const router = useRouter();
+    const mostrarModal = ref(false);
+    const postSeleccionado = ref(null);
 
     onMounted(async () => {
       const response = await fetch("https://jsonplaceholder.typicode.com/posts");
       posts.value = await response.json();
     });
 
-    const verDetalle = (id) => {
-      router.push(`/post/${id}`);
+    const abrirModal = (id) => {
+      postSeleccionado.value = id;
+      mostrarModal.value = true;
     };
 
-    return { posts, verDetalle };
+    return { posts, mostrarModal,postSeleccionado, abrirModal };
   },
 };
 </script>
