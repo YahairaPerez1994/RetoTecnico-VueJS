@@ -5,8 +5,8 @@
 * [2. Características](#2-características)
 * [3. Instalación y configuración](#3-instalación-y-configuración)
 * [4. Uso del Proyecto](#4-uso-del-proyecto)
-*    [Pantalla de Listado](#5-pantalla-de-listado)
-*    [Pantalla de Detalle del Post](#6-pantalla-de-listado)
+    [Pantalla de Listado](#5-pantalla-de-listado)
+    [Pantalla de Detalle del Post](#6-pantalla-de-listado)
 * [7. Tecnologías Utilizadas](#7-tecnologías-utilizadas)
 
 ## 1. Acerca del Proyecto
