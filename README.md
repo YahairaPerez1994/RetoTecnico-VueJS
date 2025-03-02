@@ -19,7 +19,7 @@ Objetivo: Implementar una interfaz dinámica, rápida y eficiente para visualiza
 
 ## 2. Características
 
-* Listado de posts con título y co
+* Listado de posts con título y contenido.
 * Contador de visitas almacenado en localStorage.
 * Modal con detalles del post y comentarios.
 * Diseño responsivo y estilizado con CSS y Figma.
@@ -30,7 +30,9 @@ Objetivo: Implementar una interfaz dinámica, rápida y eficiente para visualiza
 
 1️⃣ Clonar el repositorio
 
-`git clone https://github.com/YahairaPerez1994/RetoTecnico-VueJS.git`
+```sh
+ git clone https://github.com/YahairaPerez1994/RetoTecnico-VueJS.git
+```
 
 2️⃣ Ingresar al directorio del proyecto
 
@@ -50,7 +52,7 @@ El proyecto estará disponible en: http://localhost:5173/
 
 ## 4. Uso del Proyecto
 
-📌 Pantalla de Listado
+## 📌 Pantalla de Listado
 Muestra una lista de publicaciones con título y contenido.
 Al hacer clic en un post, se abre un modal con la información detallada.
 Se obtiene la data desde la API de JSONPlaceholder.
@@ -58,13 +60,15 @@ Se obtiene la data desde la API de JSONPlaceholder.
 ![image](https://github.com/user-attachments/assets/16a87a8c-7569-40a2-9176-45ef8db923b7)
 
 
-📌 Pantalla de Detalle del Post
+
+## 📌 Pantalla de Detalle del Post
 Se abre en un modal.
 Muestra título, contenido y número de visitas.
 También carga los comentarios del post desde la API.
 Se almacena y actualiza el contador de visitas en localStorage.
 
 ![image](https://github.com/user-attachments/assets/b3237949-7337-4e58-b565-f8cac9f8a1ca)
+
 
 
 ## 7. Tecnologías Utilizadas
