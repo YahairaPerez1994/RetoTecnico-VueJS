@@ -2,7 +2,7 @@
 
 ## 📖 Índice
 * [1. Acerca del proyecto](#1-acerca-del-proyecto)
-* [2. Características](#2-caracteristicas)
+* [2. Características](#2-características)
 * [3. Instalación y configuración](#3-instalación-y-configuración)
 * [4. Uso del Proyecto](#4-uso-del-proyecto)
 *  [Pantalla de Listado](#5-pantalla-de-listado)
@@ -17,7 +17,7 @@ Además, al hacer clic en un post, se abre un modal (pop-up) que muestra los det
 
 ## Objetivo: Implementar una interfaz dinámica, rápida y eficiente para visualizar y gestionar publicaciones con un contador de visitas.
 
-## 2.Características
+## 2. Características
 
 ✅ Listado de posts con título y contenido.
 ✅ Contador de visitas almacenado en localStorage.
