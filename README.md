@@ -36,19 +36,25 @@ Objetivo: Implementar una interfaz dinámica, rápida y eficiente para visualiza
 
 2️⃣ Ingresar al directorio del proyecto
 
-`cd yahaira/vue-posts-app`
+```sh
+cd yahaira/vue-posts-app
+```
 
 3️⃣ Instalar dependencias
 
-`npm install`
+```sh
+npm install
+```
 
 4️⃣ Ejecutar el servidor de desarrollo
 
-`npm run dev`
+```sh
+npm run dev
+```
 
 5️⃣ Abrir en el navegador
 
-El proyecto estará disponible en: http://localhost:5173/ 
+El proyecto estará disponible en: `http://localhost:5173/` 
 
 ## 4. Uso del Proyecto
 
