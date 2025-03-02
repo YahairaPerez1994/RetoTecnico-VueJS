@@ -101,5 +101,6 @@ Además, `AWS Amplify` gestiona el hosting de la aplicación con una infraestruc
 * Figma - Diseño de la interfaz de usuario.
 * localStorage - Para almacenar el número de visitas.
 * Git & GitHub - Control de versiones y colaboración.
+* AWS Amplify - Despliegue y hosting con integración CI/CD.
 
 📌 ¡Gracias por visitar este proyecto! 🎉 Si tienes alguna duda o sugerencia, siéntete libre de abrir un issue en GitHub o contactarme. 🚀
