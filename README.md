@@ -8,7 +8,7 @@
 * [5. Uso del Proyecto](#4-uso-del-proyecto)
     * [Pantalla de Listado](#5-pantalla-de-listado)
     * [Pantalla de Detalle del Post](#6-pantalla-de-listado)
-* [6. Despliegue en Amazon Web Services](#5-despliegue-en-amazon-web-services)
+* [6. Despliegue en Amazon Web Services](#6-despliegue-en-amazon-web-services)
 * [7. Tecnologías Utilizadas](#7-tecnologías-utilizadas)
 
 ## 1. Acerca del Proyecto
